@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:id="@+id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"><TextView android:text="@+id/TextView01" android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<EditText android:layout_below="@+id/TextView01" android:text="@+id/EditText01" android:layout_height="wrap_content" android:id="@+id/wodExcercise" android:layout_width="wrap_content"></EditText>
+<Button android:layout_width="wrap_content" android:layout_toRightOf="@+id/wodExcercise" android:layout_below="@+id/TextView01" android:layout_height="wrap_content" android:id="@+id/getExcersise" android:text="@string/getExcersiseButton"></Button>
+</RelativeLayout>
