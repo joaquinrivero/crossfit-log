@@ -1,0 +1,1 @@
+This application will allow the logging of Crossfit workouts and analysis on the data for trends.
